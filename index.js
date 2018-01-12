@@ -15,3 +15,6 @@ function deleteFromObjectByKey(object, key) {
   return object;
 }
 
+updateObjectWithKeyAndValue(object, key, value) {
+  
+}
